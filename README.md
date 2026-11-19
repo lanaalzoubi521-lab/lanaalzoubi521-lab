@@ -1,24 +1,24 @@
-### Lana Al-Zoubi
+### Hi, I'm Lana
 
-**AI & Automation** · Amman, Jordan · working remotely with teams in the UAE and GCC
+I work on AI and automation from Amman, Jordan, and I'm open to remote work with teams in the UAE and the Gulf.
 
-I connect business systems (ERP, e-commerce, CRM) and put AI to work inside them, with checks that make the output safe to trust.
+Most of my work is about getting business systems to talk to each other (ERP, online stores, CRM) and adding AI where it actually saves time. I care a lot about the boring part: checking that the data is right before anyone relies on it.
 
-#### Selected work
+#### Projects
 
-**[PINT-AE Preflight](https://github.com/lanaalzoubi521-lab/pint-ae-preflight)** · [live demo](https://lanaalzoubi521-lab.github.io/pint-ae-preflight/)  
-UAE e-invoicing check. Finds the invoices an ASP will reject before they are sent, traces each one to the ERP record behind it, and fixes the safe ones in bulk.
+**[PINT-AE Preflight](https://github.com/lanaalzoubi521-lab/pint-ae-preflight)** · [try it](https://lanaalzoubi521-lab.github.io/pint-ae-preflight/)  
+Checks invoices against the UAE e-invoicing rules before they are sent, shows which ERP record causes each error, and fixes the simple ones in one go.
 
-**[SyncWatch](https://github.com/lanaalzoubi521-lab/syncwatch)** · [live demo](https://lanaalzoubi521-lab.github.io/syncwatch/)  
-Dynamics 365 to Shopify through n8n. Every run says success while the two systems drift apart. SyncWatch compares the data itself, audits the workflow and shows the exact fix.
+**[SyncWatch](https://github.com/lanaalzoubi521-lab/syncwatch)** · [try it](https://lanaalzoubi521-lab.github.io/syncwatch/)  
+For a Dynamics 365 to Shopify sync built in n8n. The workflow reports success every time, so this compares the data in both systems and points to what is actually broken.
 
-**[Grounded Concierge](https://github.com/lanaalzoubi521-lab/grounded-concierge)** · [live demo](https://lanaalzoubi521-lab.github.io/grounded-concierge/)  
-An AI shopping assistant in Arabic and English that cannot invent a price, a stock level or a policy. Every reply is checked against the live catalogue before the customer sees it.
+**[Grounded Concierge](https://github.com/lanaalzoubi521-lab/grounded-concierge)** · [try it](https://lanaalzoubi521-lab.github.io/grounded-concierge/)  
+A shopping assistant in Arabic and English. Before any reply reaches the customer, its prices, stock and policies are checked against the catalogue.
 
-#### Tools
+#### What I use
 
-n8n · Python · JavaScript / Node.js · Next.js · Microsoft Dynamics 365 · Shopify · LLM tool calling
+n8n · Python · JavaScript · Next.js · Dynamics 365 · Shopify · LLM APIs
 
-#### Contact
+#### Get in touch
 
 [lanaalzoubi.com](https://lanaalzoubi.com) · lanaalzoubi521@gmail.com
