@@ -21,4 +21,4 @@ n8n · Python · JavaScript · Next.js · Dynamics 365 · Shopify · LLM APIs
 
 #### Get in touch
 
-[lanaalzoubi.com](https://lanaalzoubi.com) · lanaalzoubi521@gmail.com
+[lanaalzoubi.com](https://lanaalzoubi.com) · [LinkedIn](https://www.linkedin.com/in/lana-alzoubi-029438369) · lanaalzoubi521@gmail.com
